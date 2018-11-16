@@ -1,0 +1,3 @@
+[submodule "viztro-mist"]
+	path = viztro-mist
+	url = https://github.com/smoh/viztro-mist
